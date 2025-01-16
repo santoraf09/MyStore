@@ -1,0 +1,40 @@
+.header {
+  position: absolute; /* Faz o header ficar sobreposto à imagem */
+  top: 0; /* Alinha no topo */
+  left: 0; /* Inicia à esquerda */
+  width: 100%; /* Cobre toda a largura */
+  background-color: rgba(0, 0, 0, 0.5); /* Fundo semitransparente para contraste */
+  color: white; /* Cor do texto */
+  z-index: 2; /* Garante que o header fique acima da imagem */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 5px;
+}
+
+.header img {
+  width: 50px;
+  height: auto;
+  border-radius: 10px;
+}
+
+.header nav ul {
+  display: flex;
+  gap: 20px;
+  list-style: none;
+}
+
+.header nav ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  padding: 10px 15px; /* Espaço ao redor do texto */
+  height: auto; /* Permite ajuste automático */
+  overflow: visible; /* Garante que o conteúdo não seja cortado */
+}
+
+.header nav ul li a:hover {
+  text-decoration: underline;
+}
+

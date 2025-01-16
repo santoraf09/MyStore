@@ -1,0 +1,66 @@
+/* Para o plano de fundo */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-image: url("./assets/culinaria.jpg"); /* Verifique o caminho */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  overflow-x: hidden;
+}
+
+.main-container {
+  position: relative;
+  z-index: 1; /* Conteúdo acima da imagem de fundo */
+  margin-top: 60px; /* Dá espaço suficiente para o header */
+}
+
+.content {
+  position: relative;
+  z-index: 2; /* Certifica-se de que o texto esteja visível acima do fundo */
+  text-align: center;
+  color: white;
+  margin-top: 270px;
+}
+
+/* Estilo do botão */
+.cta-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  color: white;
+  background-color: #007bff; /* Cor azul */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2); /* Sombra no botão */
+  transition: background-color 0.3s ease;
+}
+
+h1 {
+  font-family: 'Georgia', serif; /* Estilo clássico */
+  font-size: 3rem;
+  font-weight: bold;
+  color: #fff;
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7); /* Sombra para melhor contraste */
+}
+
+.cta-button {
+  background-color: #007bff; /* Azul elegante */
+  border-radius: 25px;
+  padding: 10px 20px;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: bold;
+  border: none;
+  cursor: pointer;
+  text-transform: uppercase;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+  transition: background-color 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #0056b3; /* Azul mais escuro no hover */
+}
