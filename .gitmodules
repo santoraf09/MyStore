@@ -1,0 +1,3 @@
+[submodule "mystore"]
+	path = mystore
+	url = https://github.com/santoraf09/MyStore.git
