@@ -93,7 +93,8 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 ✉️ Contato
 
 Rafael Santiago
-E-mail: rafaelrsantiago@hotmail.com
+E-mail: [rafaelrsantiago@hotmail.com](mailto\:rafaelrsantiago@hotmail.com)\
+
 GitHub: santoraf09
 Deploy: https://mystore-blue-two.vercel.app/ 
 
