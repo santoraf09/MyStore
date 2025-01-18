@@ -80,11 +80,7 @@ mystore/
 
 🛠️ Problemas Conhecidos
 
-Funcionalidades como carrinho de compras e integração com APIs ainda não foram implementadas. Planeja-se implementar a integração com uma API REST para gerenciar os pedidos e a conexão com um gateway de pagamento como Stripe ou PayPal.
-
-Design ainda em fase inicial para melhorias futuras, como personalização de temas e melhorias de acessibilidade para garantir uma experiência mais inclusiva. Funcionalidades como carrinho de compras e integração com APIs ainda não foram implementadas.
-
-Design ainda em fase inicial para melhorias futuras.
+Design ainda em fase inicial para melhorias futuras, como personalização de temas e melhorias de acessibilidade para garantir uma experiência mais inclusiva. Funcionalidades como carrinho de compras e integração com APIs REST para gerenciar os pedidos ainda não foram implementadas.
 
 📄 Licença
 
@@ -93,6 +89,7 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 ✉️ Contato
 
 Rafael Santiago
+...
 E-mail: [rafaelrsantiago@hotmail.com](mailto\:rafaelrsantiago@hotmail.com)
 
 GitHub: santoraf09
