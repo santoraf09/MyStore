@@ -61,10 +61,6 @@ MyStore Online
 
 O processo de deploy foi realizado utilizando a integração do repositório GitHub com o Vercel. A cada commit enviado para o branch principal, o Vercel automaticamente constrói e publica a versão mais recente do site.
 
-<<<<<<< HEAD
-=======
-
->>>>>>> f4c86f88 (Atualizar README com melhorias)
 📂 Estrutura do Projeto
 
 mystore/
@@ -92,14 +88,10 @@ Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais deta
 
 ✉️ Contato
 
-<<<<<<< HEAD
 Rafael Santiago
 ...
 E-mail: [rafaelrsantiago@hotmail.com](mailto\:rafaelrsantiago@hotmail.com)
 
 GitHub: santoraf09
 Deploy: https://mystore-blue-two.vercel.app/ 
-=======
-Rafael SantiagoE-mail: rafaelrsantiago@hotmail.comGitHub: santoraf09Deploy: https://mystore-blue-two.vercel.app/ 
->>>>>>> f4c86f88 (Atualizar README com melhorias)
 
