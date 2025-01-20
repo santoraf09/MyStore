@@ -50,8 +50,9 @@ MyStore Online
 
 O processo de deploy foi realizado utilizando a integração do repositório GitHub com o Vercel. A cada commit enviado para o branch principal, o Vercel automaticamente constrói e publica a versão mais recente do site.
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
 
+```plaintext
 mystore/
 ├── public/                 # Arquivos públicos estáticos
 ├── src/                    # Código-fonte principal
