@@ -1,45 +1,35 @@
-MyStore - Restaurante Online
+# MyStore - Restaurante Online
 
-MyStore é um site desenvolvido para um restaurante, simulando a solicitação de um cliente. Ele busca oferecer aos usuários uma experiência intuitiva e atrativa, permitindo explorar o menu e produtos com facilidade enquanto destaca a identidade do restaurante. Este projeto é construído usando React e CSS, com foco inicial em responsividade e uma interface amigável para o usuário.
+**MyStore** é um site desenvolvido para um restaurante, simulando a solicitação de um cliente. Ele busca oferecer aos usuários uma experiência intuitiva e atrativa, permitindo explorar o menu e produtos com facilidade enquanto destaca a identidade do restaurante.
 
-🌟 Funcionalidades
+## 🌟 Funcionalidades
 
-Navegação Interativa:
+- **Navegação Interativa**:
+  - Menu com links para diferentes seções (Home, Produtos e Sobre).
+- **Exibição de Produtos**:
+  - Cartões de produto com:
+    - Nome, preço e imagem.
+    - Botão "Adicionar ao Carrinho".
+- **Design Responsivo**:
+  - Interface adaptada para dispositivos móveis e desktops.
+- **Estilização Inicial**:
+  - Cabeçalho e rodapé estilizados para manter uma identidade visual consistente.
 
-Menu com links para diferentes seções (Home, Produtos e Sobre).
+## 🚀 Tecnologias Utilizadas
 
-Exibição de Produtos:
+- **React**: Biblioteca para construção de interfaces dinâmicas.
+- **CSS**: Para estilização e responsividade.
+- **React-Scripts**: Gerenciamento e configuração do ambiente React.
 
-Cartões de produto com:
+## 📆 Setup do Projeto
 
-Nome, preço e imagem.
+Siga estas etapas para rodar o projeto localmente:
 
-Botão "Adicionar ao Carrinho".
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/santoraf09/MyStore.git
+   cd mystore
 
-Design Responsivo:
-
-Interface adaptada para dispositivos móveis e desktops.
-
-Estilização Inicial:
-
-Cabeçalho e rodapé estilizados para manter uma identidade visual consistente.
-
-🚀 Tecnologias Utilizadas
-
-React: Biblioteca para construção de interfaces dinâmicas.
-
-CSS: Para estilização e responsividade.
-
-React-Scripts: Gerenciamento e configuração do ambiente React.
-
-📆 Setup do Projeto
-
-Siga estas etapas para rodar o projeto localmente: Ao iniciar o projeto, você verá uma interface inicial com um cabeçalho, um rodapé e produtos exibidos em cartões interativos, cada um com nome, preço e botão "Adicionar ao Carrinho".
-
-Clone o repositório:
-
-git clone https://github.com/santoraf09/MyStore.git
-cd mystore
 
 Instale as dependências:
 
@@ -54,7 +44,6 @@ Acesse o projeto no navegador:
 https://mystore-blue-two.vercel.app/
 
 🌐 Deploy
-
 O projeto está hospedado no Vercel e pode ser acessado no link abaixo:
 
 MyStore Online
@@ -78,20 +67,18 @@ mystore/
 ├── package.json            # Dependências e scripts
 └── README.md               # Documentação do projeto
 
+
+
 🛠️ Problemas Conhecidos
-
-Design ainda em fase inicial para melhorias futuras, como personalização de temas e melhorias de acessibilidade para garantir uma experiência mais inclusiva. Funcionalidades como carrinho de compras e integração com APIs REST para gerenciar os pedidos ainda não foram implementadas.
-
+Funcionalidades como carrinho de compras e integração com APIs ainda não foram implementadas. Planeja-se implementar a integração com uma API REST para gerenciar os pedidos e a conexão com um gateway de pagamento como Stripe ou PayPal.
+Design ainda em fase inicial para melhorias futuras, como personalização de temas e melhorias de acessibilidade para garantir uma experiência mais inclusiva.
 📄 Licença
-
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ✉️ Contato
-
 Rafael Santiago
-...
 E-mail: [rafaelrsantiago@hotmail.com](mailto\:rafaelrsantiago@hotmail.com)
-
 GitHub: santoraf09
-Deploy: https://mystore-blue-two.vercel.app/ 
+Deploy: https://mystore-blue-two.vercel.app/
+
 
